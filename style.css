@@ -1,0 +1,9 @@
+body{background:#0b0b0b;color:#eee;font-family:Arial,sans-serif;padding:20px;}
+
+button{padding:10px 20px;border:none;border-radius:6px;background:#00c853;color:#fff;cursor:pointer;}
+
+button:hover{background:#00e676;}
+
+#locked,#content{background:#111;padding:20px;border-radius:8px;margin:10px auto;max-width:500px;text-align:center;}
+
+a{color:#00e676;text-decoration:none;}
